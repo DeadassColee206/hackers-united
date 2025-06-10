@@ -4,3 +4,8 @@ body {
   color: #ffffff;
   font-family: 'Inter';
 }
+
+a {
+  color: #1503b9;
+  text-decoration: none;
+}
